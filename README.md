@@ -1,10 +1,5 @@
 ## Hi there, I'm Noah Stremme
 
-<p align="center">
-<img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
-</p>
-
-
 - I'm a: Applied Mathematics student at the University of Utah.
 - About me: Interested in analytical problem solving, quantitative reasoning, and programming.
 - Currently: Studying mathematics and building coding projects.
